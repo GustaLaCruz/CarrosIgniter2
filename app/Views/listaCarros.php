@@ -1,5 +1,5 @@
 <h1> Lista de Carros </h1>
-<table class="table">
+<table class="table text-light">
     <tr>
         <td>Modelo:</td>
         <td>Marca</td>

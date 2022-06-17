@@ -8,3 +8,203 @@ CRITICAL - 2022-06-17 01:10:58 --> Invalid file: quemsomo.php
 #6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
 #8 {main}
+CRITICAL - 2022-06-17 08:14:57 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:14:58 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:00 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:02 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:03 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:04 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:07 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:09 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:34 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:48 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:56 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:15:58 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:16:14 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:16:25 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:16:26 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:16:28 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:56:44 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:56:48 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:56:49 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-17 08:56:50 --> Invalid file: js.php
+#0 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('js.php')
+#1 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Common.php(1089): CodeIgniter\View\View->render('js', Array, true)
+#2 C:\wamp64\www\CarrosIgniter\CarrosIgniter\app\Controllers\Home.php(59): view('js')
+#3 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(825): App\Controllers\Home->page('js', 'bootstap.js')
+#4 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CarrosIgniter\CarrosIgniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CarrosIgniter\CarrosIgniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}

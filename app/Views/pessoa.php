@@ -1,5 +1,5 @@
 <h1> <?=$title?> </h1>
-<table class="table">
+<table class="table text-light">
     <tr>
         <td>Nome:</td>
         <td>Profissão</td>
@@ -11,7 +11,7 @@
 
     foreach($pessoas as $pessoa_item){
     ?>
-    <tr>
+    <tr text-light>
         <td><?=  $pessoa_item['nome']  ?></td>
         <td><?=  $pessoa_item['profissao']  ?></td>
         <td><?=  $pessoa_item['idade']  ?></td>
