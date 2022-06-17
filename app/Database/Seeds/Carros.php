@@ -8,7 +8,7 @@ class Carros extends Seeder
 {
     public function run()
     {
-        $modelo = ['Vesta', 'Granta', 'Largus', 'Xray', 'Niva Travel'];
+        $modelo = ['Vesta', 'Granta', 'Niva Legend', 'Xray', 'Niva Travel'];
         $placa = ['FWD3272','EKE2076','CTL7144','ERP2538','DRE0455'];
         for($x = 0; $x < 5; $x++){
             $data = [
