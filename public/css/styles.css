@@ -1,0 +1,98 @@
+*{
+ margin: 0;   
+}
+
+body{
+    background-color:#575757;
+}
+
+.tituloPaginasCarros{
+    font-size: 81px;
+}
+/*Início Home*/
+
+    .slideFundo
+    {
+        z-index: -1;
+        position:absolute;
+        width: 100%;
+        height: 100%;
+    }
+    #collapseHome a img{
+       width: 295px;
+    }
+
+    .grantaHome a img{
+        width: 295px;
+    }
+    .vestaHome a img{
+        width: 295px;
+    }
+    .xrayHome a img{
+        width: 295px;
+    }
+    .nivalHome a img{
+        width: 295px;
+    }
+    .nivatHome a img{
+        width: 295px;
+    }
+
+    .grantaHome a{
+        width: 290px;
+    }
+    .vestaHome a{
+        width: 290px;
+    }
+    .xrayHome a{
+        width: 290px;
+    }
+    .nivalHome a{
+        width: 290px;
+    }
+    .nivatHome a{
+        width: 290px;
+    }
+
+
+
+/*Fim Home*/
+
+/*Início Página do Granta*/
+.grantaFundo1{
+    margin-left: -13px;
+    margin-top: -3%;
+    position:absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+.grantaBloco1a{
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.764);
+    width: 300px;
+    height: auto;
+    border-radius: 20%;    
+}
+.grantaBloco1b{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.764);
+    border-radius: 10%;
+}
+.grantaBloco2a{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.764);
+    border-radius: 10%;
+}
+/*fim Página do Granta*/
+
+/*Início Página do Vesta*/
+.vestaFundo1{
+    margin-left: -13px;
+    margin-top: -3%;
+    position:absolute;
+    width: 100%;
+    z-index: -1;
+}
+/*fim Página do Vesta*/
+

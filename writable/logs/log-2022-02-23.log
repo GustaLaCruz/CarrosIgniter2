@@ -1,0 +1,17 @@
+CRITICAL - 2022-02-23 11:17:04 --> Too few arguments to function App\Controllers\Home::page(), 0 passed in C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page()
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-02-23 11:36:09 --> Invalid file: qemsomos.php
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('qemsomos.php')
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('qemsomos', Array, true)
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(16): view('qemsomos')
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('qemsomos')
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}

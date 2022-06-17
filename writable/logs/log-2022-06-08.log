@@ -1,0 +1,38 @@
+ERROR - 2022-06-08 11:47:29 --> Error connecting to the database: Unknown database 'teste'
+CRITICAL - 2022-06-08 11:55:58 --> Class 'ConfigzServices' not found
+#0 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->logar()
+#1 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-06-08 12:42:41 --> Invalid file: Sair.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Sair.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('Sair', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(20): view('Sair')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('Sair')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-08 12:45:18 --> Invalid file: Sair.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Sair.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('Sair', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(20): view('Sair')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('Sair')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-08 12:48:03 --> Invalid file: Sair.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Sair.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('Sair', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(20): view('Sair')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('Sair')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}

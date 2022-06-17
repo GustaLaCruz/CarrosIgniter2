@@ -1,0 +1,24 @@
+CRITICAL - 2022-05-04 12:06:42 --> Undefined variable: title
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Views\pessoa.php(1): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 1, Array)
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('pessoa', Array, true)
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(20): view('pessoa')
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('pessoa', 'cadastro')
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-05-04 12:09:40 --> Undefined variable: title
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Views\pessoa.php(1): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 1, Array)
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('pessoa', Array, true)
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(20): view('pessoa')
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('pessoa', 'cadastro')
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}

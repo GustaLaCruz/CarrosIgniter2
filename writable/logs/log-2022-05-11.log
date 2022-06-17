@@ -1,0 +1,50 @@
+ERROR - 2022-05-11 11:38:39 --> Error connecting to the database: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+
+CRITICAL - 2022-05-11 11:44:09 --> Invalid file: pessoas.php
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pessoas.php')
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('pessoas', Array, true)
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(20): view('pessoas')
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('pessoas')
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-05-11 11:56:57 --> Invalid file: excluir.php
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('excluir.php')
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('excluir', Array, true)
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(20): view('excluir')
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('excluir', '5')
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-05-11 11:57:35 --> Invalid file: excluir.php
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('excluir.php')
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('excluir', Array, true)
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(20): view('excluir')
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('excluir', '5')
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-05-11 11:58:54 --> Invalid file: excluir.php
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('excluir.php')
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Common.php(1089): CodeIgniter\View\View->render('excluir', Array, true)
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(20): view('excluir')
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->page('excluir', '5')
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-05-11 12:26:28 --> Too few arguments to function App\Models\PessoasModel::getPessoa(), 0 passed in C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php on line 66 and exactly 1 expected
+#0 C:\wamp64\www\codeigniterProjeto13DSPeruibe\app\Controllers\Home.php(66): App\Models\PessoasModel->getPessoa()
+#1 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(825): App\Controllers\Home->editar('2')
+#2 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\codeigniterProjeto13DSPeruibe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\codeigniterProjeto13DSPeruibe\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}

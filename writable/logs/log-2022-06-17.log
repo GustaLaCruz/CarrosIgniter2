@@ -1,0 +1,10 @@
+CRITICAL - 2022-06-17 01:10:58 --> Invalid file: quemsomo.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quemsomo.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('quemsomo', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('quemsomo')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('quemsomo')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}

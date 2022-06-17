@@ -1,0 +1,390 @@
+CRITICAL - 2022-06-16 21:12:08 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:09 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:09 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:10 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:10 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:10 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:29 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:36 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:44 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:46 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:49 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:51 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:12:54 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:13:10 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:13:18 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:13:44 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:13:45 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:19:03 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:19:04 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:19:05 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:20:52 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:20:53 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:20:53 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:24:18 --> Invalid file: public.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('public', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('public')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('public', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:24:19 --> Invalid file: public.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('public', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('public')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('public', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:38:20 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:39:12 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:39:30 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:40:24 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:40:59 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:46:56 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 21:47:41 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:15:47 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:15:47 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:15:48 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:16:06 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:16:09 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:16:17 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-16 22:16:18 --> Invalid file: css.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(24): view('css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('css', 'styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}

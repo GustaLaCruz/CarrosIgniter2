@@ -1,0 +1,373 @@
+ERROR - 2022-06-15 12:49:48 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 12:49:48 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(110): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 12:50:34 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 12:50:34 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(110): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 12:50:39 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 12:50:39 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(110): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+CRITICAL - 2022-06-15 12:52:43 --> Call to undefined method App\Models\PessoasModel::getCarros
+#0 C:\wamp64\www\ci_database2\app\Controllers\Home.php(57): CodeIgniter\Model->__call('getCarros', Array)
+#1 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->listaCarros()
+#2 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-06-15 12:52:45 --> Call to undefined method App\Models\PessoasModel::getCarros
+#0 C:\wamp64\www\ci_database2\app\Controllers\Home.php(57): CodeIgniter\Model->__call('getCarros', Array)
+#1 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->listaCarros()
+#2 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-06-15 13:01:35 --> Call to undefined method App\Models\PessoasModel::getCarros
+#0 C:\wamp64\www\ci_database2\app\Controllers\Home.php(57): CodeIgniter\Model->__call('getCarros', Array)
+#1 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->listaCarros()
+#2 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+ERROR - 2022-06-15 13:04:29 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 13:04:29 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(112): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 13:07:10 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 13:07:10 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(112): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 13:09:31 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 13:09:31 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(112): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 13:10:35 --> Column 'nome' cannot be null
+CRITICAL - 2022-06-15 13:10:35 --> Column 'nome' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(133): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravar()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 13:17:52 --> Column 'placa' cannot be null
+CRITICAL - 2022-06-15 13:17:52 --> Column 'placa' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(112): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravarCarro()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 13:18:15 --> Column 'placa' cannot be null
+CRITICAL - 2022-06-15 13:18:15 --> Column 'placa' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(112): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravarCarro()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+ERROR - 2022-06-15 13:18:37 --> Column 'placa' cannot be null
+CRITICAL - 2022-06-15 13:18:37 --> Column 'placa' cannot be null
+#0 C:\wamp64\www\ci_database2\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\wamp64\www\ci_database2\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\wamp64\www\ci_database2\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\wamp64\www\ci_database2\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\wamp64\www\ci_database2\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\wamp64\www\ci_database2\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\wamp64\www\ci_database2\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\wamp64\www\ci_database2\app\Controllers\Home.php(112): CodeIgniter\BaseModel->save(Array)
+#9 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->gravarCarro()
+#10 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#14 {main}
+CRITICAL - 2022-06-15 13:18:58 --> Call to undefined method App\Models\CarrosModel::getPessoa
+#0 C:\wamp64\www\ci_database2\app\Controllers\Home.php(175): CodeIgniter\Model->__call('getPessoa', Array)
+#1 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->editarCarro('6')
+#2 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-06-15 13:20:32 --> Illegal string offset 'modelo'
+#0 C:\wamp64\www\ci_database2\app\Views\listaCarros.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\c...', 15, Array)
+#1 C:\wamp64\www\ci_database2\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\ci_database2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('listaCarros', Array, true)
+#4 C:\wamp64\www\ci_database2\app\Controllers\Home.php(179): view('listaCarros', Array)
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->editarCarro('6')
+#6 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-06-15 13:22:18 --> Illegal string offset 'modelo'
+#0 C:\wamp64\www\ci_database2\app\Views\listaCarros.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\c...', 15, Array)
+#1 C:\wamp64\www\ci_database2\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\ci_database2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('listaCarros', Array, true)
+#4 C:\wamp64\www\ci_database2\app\Controllers\Home.php(179): view('listaCarros', Array)
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->editarCarro('6')
+#6 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-06-15 13:24:05 --> Invalid file: editarCarro.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarro.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('editarCarro', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('editarCarro')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('editarCarro', 'cadastroCarros')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 13:24:48 --> Illegal string offset 'modelo'
+#0 C:\wamp64\www\ci_database2\app\Views\listaCarros.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\c...', 15, Array)
+#1 C:\wamp64\www\ci_database2\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\ci_database2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('listaCarros', Array, true)
+#4 C:\wamp64\www\ci_database2\app\Controllers\Home.php(179): view('listaCarros', Array)
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->editarCarro('7')
+#6 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-06-15 13:26:21 --> Illegal string offset 'modelo'
+#0 C:\wamp64\www\ci_database2\app\Views\listaCarros.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\wamp64\\www\\c...', 15, Array)
+#1 C:\wamp64\www\ci_database2\system\View\View.php(210): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\ci_database2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('listaCarros', Array, true)
+#4 C:\wamp64\www\ci_database2\app\Controllers\Home.php(179): view('listaCarros', Array)
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->editarCarro('7')
+#6 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+CRITICAL - 2022-06-15 20:04:13 --> Invalid file: phpmyadmin.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('phpmyadmin.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('phpmyadmin', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('phpmyadmin')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('phpmyadmin')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:04:40 --> Invalid file: phpmyadmin.php
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('phpmyadmin.php')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('phpmyadmin', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('phpmyadmin')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('phpmyadmin')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+ERROR - 2022-06-15 20:06:54 --> Table 'tb_carros' already exists
+ERROR - 2022-06-15 20:07:46 --> Table 'tb_carros' already exists
+ERROR - 2022-06-15 20:08:04 --> Table 'tb_carros' already exists
+CRITICAL - 2022-06-15 20:42:23 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:42:36 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:29 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:30 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:30 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:31 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:33 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:34 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-06-15 20:43:34 --> Invalid file: styles.css
+#0 C:\wamp64\www\ci_database2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('styles.css')
+#1 C:\wamp64\www\ci_database2\system\Common.php(1089): CodeIgniter\View\View->render('styles.css', Array, true)
+#2 C:\wamp64\www\ci_database2\app\Controllers\Home.php(22): view('styles.css')
+#3 C:\wamp64\www\ci_database2\system\CodeIgniter.php(825): App\Controllers\Home->page('styles.css')
+#4 C:\wamp64\www\ci_database2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci_database2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci_database2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci_database2\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}

@@ -1,0 +1,11 @@
+ERROR - 2022-06-01 12:03:53 --> Unknown column 'senha' in 'field list'
+CRITICAL - 2022-06-01 12:49:33 -->  route cannot be found while reverse-routing.
+#0 C:\wamp64\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\wamp64\www\codeigniter\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\wamp64\www\codeigniter\app\Controllers\Home.php(89): redirect('login')
+#3 C:\wamp64\www\codeigniter\system\CodeIgniter.php(825): App\Controllers\Home->logar()
+#4 C:\wamp64\www\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
